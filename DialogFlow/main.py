@@ -14,21 +14,25 @@ training_knowledge_base = pd.concat((x_train, y_train), axis=1)
 language = 'es'
 create_json_intent_files(training_knowledge_base, language)
 
+print('You must convert the folder called new agent into zip. Then you must upload this zip into dialog flow agent ')
+print('Did you already do this?')
+upload = input('SI O NO: ')
 
-test_knowledge_base = pd.concat((x_test, y_test), axis=1)
+if upload == 'SI':
 
-project_id = 'dialogbot-268819'
-session_id = '0123456789'
-credentials_file_path = 'DialogBot-bf9ec707ce99.json'
+    test_knowledge_base = pd.concat((x_test, y_test), axis=1)
 
-# Evaluate our training
-test_knowledge_base['prediction'] = test_knowledge_base['utterance'].apply(lambda utterance:
-                                                                           intent_detection(project_id,
-                                                                                            session_id,
-                                                                                            credentials_file_path,
-                                                                                            utterance, language))
+    project_id = 'conversationalagent-272119'
+    session_id = '0123456789'
+    credentials_file_path = 'C:/Users/Administrator/Documents/conversational-agent-credentials.json'
 
+    # Evaluate our training
+    test_knowledge_base['prediction'] = test_knowledge_base['utterance'].apply(lambda utterance:
+                                                                               intent_detection(project_id,
+                                                                                                session_id,
+                                                                                                credentials_file_path,
+                                                                                                utterance, language))
 
-performance_measures_report(test_knowledge_base, 'training_results')
+    performance_measures_report(test_knowledge_base, 'training_results')
 
 
