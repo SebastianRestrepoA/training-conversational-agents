@@ -1,0 +1,7 @@
+config.json
+.idea
+.git
+_pycache_
+bin
+lib
+env
