@@ -1,0 +1,39 @@
+intents:
+  - no
+  - agradecimiento
+  - saludo
+  - si
+  - pregunta_general
+  - que_es
+  - despedida
+  - cancelar
+  - que_sabes
+
+responses:
+ utter_no:
+  - text: "no"
+
+ utter_agradecimiento:
+  - text: "agradecimiento"
+
+ utter_saludo:
+  - text: "saludo"
+
+ utter_si:
+  - text: "si"
+
+ utter_pregunta_general:
+  - text: "pregunta_general"
+
+ utter_que_es:
+  - text: "que_es"
+
+ utter_despedida:
+  - text: "despedida"
+
+ utter_cancelar:
+  - text: "cancelar"
+
+ utter_que_sabes:
+  - text: "que_sabes"
+

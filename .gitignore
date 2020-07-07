@@ -1,7 +1,9 @@
 config.json
 .idea
 .git
-_pycache_
+__pycache__
 bin
 lib
 env
+__init__
+Rasa/env

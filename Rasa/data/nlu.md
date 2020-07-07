@@ -1,0 +1,481 @@
+## intent:no
+- no
+- como se te ocurre
+- jamas
+- jamas
+- naaaa
+- nada
+- nah
+- nanai
+- naranjas
+- negativo
+- never
+- ni
+- nolas
+- none
+- nones
+- noooo
+- nop
+- nope
+- nopi
+- nopis
+- nopo
+- nothing
+- nuuuu
+- nulo
+- nunca
+- neh
+- noclas
+- nein
+- nonas
+- nooo
+
+## intent:agradecimiento
+- eres muy amable
+- gracias
+- muchas gracias
+- tks
+- agradezco
+- muchisimas gracias
+- mi dios le pague
+- muchisisimas gracias
+- thanks
+- gachas
+- grasias
+- gracuas
+
+## intent:saludo
+- hola
+- cucha
+- holaaaaaaaaaaaa
+- auxilio
+- como amaneces
+- como has estado
+- como estas
+- como has estado
+- hello
+- ello
+- helo
+- hola buen dia
+- hola buenas noches
+- hey
+- hi
+- mostro
+- hola miguis
+- hola bb
+- hola bebe
+- hellooo
+- ola
+- hols
+- holiii
+- querida
+- helo
+- como te a ido
+- que mas 
+- que mas amiga
+- que mas
+- jelou
+- buen dia
+- como has estado
+- quiubo
+- bien o que
+- hols sofy
+- jelou sofu
+- saludos
+- oe
+- bien o no
+- buenas tardes
+- buenas noches
+- como te va
+- como te ha ido
+- como vai
+- como vas
+- como estas
+- quiai
+- hablalo
+- saludarte
+- oe
+- tonces que 
+- como vas
+- como amaneces
+- como amanecio
+- que tal
+- que puedes hacer
+- que tal
+- alo
+- amiga
+- amiiigaaa
+- baby
+- bebe
+- belleza
+- buen dia
+- buen dia
+- buenas noches
+- bonita
+- buenas tardes
+- buenos dias
+- aloha
+- holi
+- hooooooola
+- regrese
+
+## intent:si
+- si
+- afirmativo
+- aja
+- dale
+- clarines
+- clarinete
+- claro
+- listo
+- obvio
+- ok
+- oki
+- okidoki
+- perfect
+- por supuesto
+- seeee
+- fue satisfactoria
+- siii
+- silantros
+- sip
+- sipi
+- sipirili
+- sipiriri
+- sipiriripi
+- sisarras
+- sisas
+- yeah
+- yep
+- sizas
+- erre
+- yes
+- yeap
+- cuente con eso
+- okey
+- obviamente
+- aprobado
+- efectivamente
+- excelente
+- super
+- super
+- con toda
+- chevere
+- me interesa
+- en efecto
+- hagale
+- esta weno
+- acepto
+- off corse
+- yess
+- correcto
+- sisa
+- claramente
+- de acuerdo
+- sin duda
+- asi es
+- asi es
+- positivo
+- perfecto
+- siiiiiii
+- yesss
+- vale
+- siiii
+- nice
+- bueno
+- esta bien
+- esta bien
+
+## intent:pregunta_general
+- hacer pregunta
+- necesito aclarar una duda
+- me puedes asesorar
+- como hago una consulta
+- como me puedes ayudar con una inquietud
+- me puedes ayudar
+- necesito preguntarte por un tema
+- quiero confirmar un temita 
+- tengo una consulta sobre 
+- preguntar sobre algo
+- necesito ayuda
+- quiero saber un temita sobre
+- consulta acerca de
+- presento un incoveniente
+- asesorar en temas de
+- conoces de 
+- todo sobre
+- tengo dudas con 
+- preguntar por 
+- quiero preguntarte por 
+- tengo una inquietud respecto a 
+- quisiera aclarar una duda
+- quisiera preguntar
+- quisiera preguntar sobre
+- quisieras asesorarme en algo
+- consulta informacion sobre
+- consultarte
+- quisiera tener asesoria
+- tengo mas inquietudes
+- tengo otra duda
+- un favor
+- quisiera obtener una asesoria
+- quiero preguntar sobre un tema especifico
+- como hago para hacer una consulta
+- te quiero preguntar
+- tengo otra inquietud
+- procedo entonces a preguntarte
+- quiero que me asesores con algo
+- quiero aprender de 
+- quisiera indagar sobre un tema de
+- que sabes de
+- requiero asesoria sobre
+- es posible que me des informacion de 
+- necesito averiguar sobre un tema de
+- exijo saber un tema sobre
+- preciso saber sobre
+- necesito algo de 
+- quien me puede informar sobre
+- como puedo conocer sobre un tema
+- quisiera saber informacion acerca de
+- me puedes ayudar con una consulta
+- quisieras indicarme donde consulto un tema
+- que me puedes decir de
+- donde encuentro informacion sobre
+- dudas sobre
+- preguntar sobre
+- mis preguntas son por
+- ayudame con una inquietud
+- tengo una inquietud de algo
+- tengo una duda
+- tengo una consulta sobre
+- tengo consulta
+- necesito una asesoria
+- consultar
+- consultar informacion
+- consultar un dato
+- debo solucionar una duda
+- deseo validar algo
+- una consulta
+- sacame de una duda
+- quisiera una asesoria
+- realizar pregunta
+- necesito validar algo
+- podria preguntarte acerca de algo
+- pregunta
+- preguntar sobre
+- puedo preguntarte algo
+- quiero preguntar
+- quiero validar
+- necesito validar varios temas
+- necesito consultar varios temas
+- con quien aclaro mi duda
+- necesito preguntar algo
+- me gustaria saber sobre
+- necesito conocer sobre
+- quiero saber acerca de
+- quiero consultar por un tema especifico
+- todavia tengo otras preguntas
+- una cosita
+- quisieras indicarme donde consulto un tema de
+- indagar sobre un tema de
+- solicito una aclaracion sobre
+
+## intent:que_es
+- que es 
+- como es esto de 
+- que son 
+- Que es ?
+- que significa 
+- a que se refiere eso de
+- cual es el significado de
+- Para que sirve
+- a que se refieren con 
+- para que es 
+- que significa el tema de
+- Q es
+- que es eso de 
+- Me gustaria saber que es 
+- De que se trata
+- que es esto de 
+- me puedes dar la definicion de
+- quiero saber que es 
+- querria saber sobre
+- que es esto de
+- me puedes definir
+- Quiero saber sobre 
+- En que consiste una
+- que me puedes contar sobre 
+- explicame que es eso de
+- a que se refieren cuando hablan de
+- a que se refiere por 
+- Necesito saber q es 
+- Me explicas que es 
+- q es 
+
+## intent:despedida
+- suerte
+- sallir
+- chao
+- capito chau
+- chau
+- bye
+- te deseo un feliz dia
+- todo bem chaolin
+- todo bien hasta luego
+- todo bien suerte
+- que estes bien
+- adios pues
+- chaito  
+- salgo de esta conversacion
+- suerte sofy
+- adios
+- quiero salirme de esto
+- nada mas
+- me queria despedir
+- quiero irme
+- hasta luego
+- ah adios
+- aja chaolin
+- hasta luego sofy
+- no quiero hablar mas
+- no quiero nada mas
+- no quiero seguir
+- nos vemos sofi
+- nos vemos robotina
+- que tengas un feliz dia
+- suerte
+- bye sofy
+- feliz dia
+- chaooo
+- oka bye
+- oki doki chau
+- nos vemos
+- chau
+- bye bye
+- bye sofi
+- me tengo ir
+- chao 
+- chaolin
+- chau
+- suerte
+- chaolin
+- chaos
+- chauuu
+- chai
+- nada mas
+- irme
+- chaito
+- adios
+- debo irme chaolin
+- hasta pronto
+
+## intent:cancelar
+- cancela mi solicitud
+- cancelar
+- deje asi
+- me quiero salir de esta conversacion
+- no quiero seguir con esto
+- salir
+
+## intent:que_sabes
+- te molesto con algo
+- i need you
+- me ayudas con algo
+- me podrias asesorar con algo
+- help me
+- quiero que me ayudes con algo
+- necesito que me asesores con algo
+- me ayudas
+- me podrias colaborar con una duda de
+- ayudame
+- sabes algo
+- podria obtener una consultoria sobre
+- me puedes ayudar con una consulta de
+- necesito tu colaboracion
+- ayudame
+- Auxilio
+- Auyda
+- Atuda
+- help
+- tengo una inquietud
+- quiero una consulta
+- regalame info
+- mo colaboras?
+- necesito algo
+- Ayuda pues ome
+- ayudame con algo
+- si tengo una duda
+- quiero una Asesoria
+- Ayudame tu
+- Colaborame
+- Colaborame
+- Ayuda
+- imformacion
+- Una pregunta
+- Ayuda rapido
+- Necesito asesoria
+- AYUDA
+- necesito algo urgente
+- ayudame con una cosa
+- Ayudame con algo mas
+- Me ayudas?
+- ayudaaaaaaaaaaaa
+- sos
+- me puedes ayudar en otra cosa
+- tu que sabes?
+- Que cosas puedo preguntarte?
+- Quiero saber tu en q me puedes ayudar
+- Me puedes ayudar en cualquier cosa?
+- En que me puedes tu ayudar entonces?
+- Que informacion me puedes dar ?
+- En que cosas puedes ayudarme?
+- Me puedes ayudar en algo ?
+- que me puedes decir
+- Me puedes asesorar?
+- que me puedes ayudar
+- En que puedes ayudar?
+- Tu me puedes ayudar ?
+- en que me puedes ayudar
+- En que me puedes auyudar
+- ayudame para entender, mejor
+- en que mas me puede ayudar?
+- En que mas me puedes ayudar?
+- que informacion me pueden dar?
+- Por favor me indicas que consultas puedo hacer aqui?
+- Eso quiero saber en que me puedes ayudar?
+- Para que otras consultas me puedes ayudar?
+- Que tipo de consultas puedo hacerte?
+- Que tipo de consulta puedo realizar?
+- Que tipo de consulta puedo realizar?
+- Que informacion me puedes dar ?
+- En que funciones mas puedes ayudar?
+- Como Me Puedes Ayudar ?
+- Como en q me puede ayudar
+- en que ayudan
+- que informacion me pueden dar?
+- para que sirves?
+- Y que otra vainas puedes ayudar
+- que consultas puedo hacer
+- en que me puede colaborar??
+- Sobre que puedo consultar?
+- que consultas puedo hacer?
+- Que temas puedes manejar?
+- que puedes hacer por mi ?
+- en que me puedes ayudar?
+- en que puedes colaborarme
+- con que me puede ayudar?
+- Como puedes ayudarme?
+- que asesoria me das
+- que servicios tienes
+- De que temas sabes?
+- Como m puede ayudar
+- Para que me ayudas
+- podria colaborarme
+- en que temas puedes apoyarme
+- que otro tema podemos mirar
+- me gustaria saber que temas puedo tratar contigo
+- en que informacion me puedes colaborar
+- en que temas me puedes ayudar
+- cuales temas sabes de
+- dime que tienes de 
+- dime que sabes
